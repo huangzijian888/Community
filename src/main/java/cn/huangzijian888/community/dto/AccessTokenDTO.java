@@ -1,4 +1,4 @@
-package cn.huangzijian888.community.community.dto;
+package cn.huangzijian888.community.dto;
 
 /**
  * @author huangzijian888

@@ -1,4 +1,4 @@
-package cn.huangzijian888.community.community;
+package cn.huangzijian888.community;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

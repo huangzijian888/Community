@@ -1,7 +1,7 @@
-package cn.huangzijian888.community.community.provider;
+package cn.huangzijian888.community.provider;
 
-import cn.huangzijian888.community.community.dto.AccessTokenDTO;
-import cn.huangzijian888.community.community.dto.GithubUser;
+import cn.huangzijian888.community.dto.AccessTokenDTO;
+import cn.huangzijian888.community.dto.GithubUser;
 import com.alibaba.fastjson.JSON;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;

@@ -1,4 +1,4 @@
-package cn.huangzijian888.community.community;
+package cn.huangzijian888.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
